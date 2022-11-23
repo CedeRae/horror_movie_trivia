@@ -1,26 +1,34 @@
 body {
-    background-image: url(spooky-forest.avif);
+    background-image: url('scream.avif');
+    background-color: black;
+    background-size: 1000px;
+    background-repeat: no-repeat;
     color: whitesmoke;
     font-family: 'Permanent Marker', cursive;
     margin: 0;
 }
-header {
-    background-color: rgb(179, 3, 3);
-    padding: 5px;
+header{
+    display: inline-block;
+    background-color: rgb(104, 3, 3);
+    display: flex;
+    margin: 0px;
 }
 #main-header {
    font-family: 'Creepster', cursive;
+   margin-left: 50px;
 }
 header h2 {
     font-family: 'Xanh Mono', monospace;
-    padding-left: 1rem;
+    margin-left: 30px;
 }
 #start-button {
-    width: 20rem;
-    visibility: visible;
-    margin: 3rem;
-    margin-left: 5rem;   
-    background-color: rgb(179, 3, 3);
+    width: 10rem;
+    visibility: visible; 
+    background-color: rgb(90, 88, 88);
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
 }
 button {
     width: 40rem;
@@ -28,26 +36,72 @@ button {
     color: whitesmoke;
     background-color:rgb(90, 88, 88);
     font-family: 'Permanent Marker', cursive;
+    border-radius: 8px;
 }
 #quiz-board {
-    display: block;
-    height: 300px;
+    max-width: 800px;
+    height: 400px;
     width: 900px;
     visibility: hidden;
-}
-#question-text {
-    padding: 2rem;
+    margin: 0 auto;
 }
 ul {
     list-style: none;
+    margin: 0 auto;
 }
 li {
     padding: 5px;
 }
 #play_again {
-    background-color: rgb(179, 3, 3);
+    background-color: rgb(104, 3, 3);
     visibility: hidden;
+    margin: 0 auto;
 }
 #results {
-    visibility: hidden;
+    white-space: normal;
+    font-size: x-large;
+    margin: 0 auto;
+
+}
+@media (max-width: 800px) {
+    body {
+        background-size: cover;
+        overflow: hidden;
+    }
+    
+    header {
+        display: block;
+        background: none;
+    }
+    header h2 {
+        color: rgb(175, 3, 3);
+    }
+    #start-button{
+        width: 10rem;
+        background-color: black;
+        border: solid;
+        border-color: whitesmoke;
+    }
+    button {
+        width: 20rem;
+    }
+    #quiz-board {
+        margin-left: 10%;
+    }
+    #question-text {
+        width: 50%;
+        max-width: 600px;
+        color: rgb(175, 3, 3);
+        font-size: x-large;
+    }
+    #results {
+        color:rgb(175, 3, 3);
+        margin-left: 10%;
+    }
+    #play_again {
+        background-color: black;
+        border: solid;
+        border-color: whitesmoke;
+        margin-left: 10%;
+    }
 }

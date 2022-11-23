@@ -198,6 +198,198 @@ const triviaQuestions = [
         c: "It",
         d: "Stand By Me",
         answer: "The Shining"
+    },
+    {
+        question: "What is the name of Victor Frankenstein’s assistant in Frankenstein (1931)?",
+        a: "Fritz",
+        b: "Igor",
+        c: "Henry",
+        d: "Alphonse",
+        answer: "Fritz"
+    },
+    {
+        question: "What composer made the music for Vertigo and Psycho?",
+        a: "Daphne Oram",
+        b: "Bernard Herrmann",
+        c: "Elisabeth Lutyens",
+        d: "John Carpenter",
+        answer: "Bernard Herrmann"
+    },
+    {
+        question: "What horror movie is dubbed the worst film ever made?",
+        a: "Plan 9 From Outer Space(1959)",
+        b: "Jaws the Revenge(1987",
+        c: "Cabin Fever(2016)",
+        d: "House of the Dead(2003)",
+        answer: "Plan 9 From Outer Space(1959)"
+    },
+    {
+        question: "What was the first horror movie in color?",
+        a: "Mystery of the Wax Museum",
+        b: "Doctor X",
+        c: "Blood Feast",
+        d: "The Curse of Frankenstein",
+        answer: "The Curse of Frankenstein"
+    },
+    {
+        question: "In The Blob, what is the creature’s weakness?",
+        a: "Nuclear weapons",
+        b: "Fire",
+        c: "The cold",
+        d: "Fluoroantimonic acid",
+        answer: "The cold"
+    },
+    {
+        question: "What is the chemical that raised the dead in Return of the Living Dead?",
+        a: 'DC2',
+        b: "Trixie",
+        c: "Trioxin 5",
+        d: "C.H.U.D.",
+        answer: "Trioxin 5"
+    },
+    {
+        question: "How many Saw movies are there?",
+        a: "Seven movies",
+        b: "Eight movies",
+        c: "Nine movies",
+        d: "Eleven movies",
+        answer: "Nine movies"
+    },
+    {
+        question: "What is the name of the alien in The Day The Earth Stood Still?",
+        a: "Klaatu",
+        b: "Ayala",
+        c: "Lazarus",
+        d: "Oola",
+        answer: "Klaatu"
+    },
+    {
+        question: "What kind of animal mask do the followers of Jigsaw wear in the Saw movie series?",
+        a: "Creepy Doll Masks",
+        b: "Pig masks",
+        c: "Devil Masks",
+        d: "Ski Masks",
+        answer: 'Pig masks'
+    },
+    {
+        question: 'What is the name of the box from Hellraiser?',
+        a: "The Mangler",
+        b: "The Necronomicon",
+        c: "The Lament Configuration",
+        d: "The Cryptex",
+        answer: "The Lament Configuration"
+    },
+    {
+        question: "In Insidious, what song plays when the demon is near?",
+        a: "There Was A Crooked Man by James Wan",
+        b: "Tiptoe Through The Tulips By Tiny Tim",
+        c: "You Are My Sunshine by Jimmie Davis and Charles Mitchell",
+        d: "Tubuler Bells by Mike Oldfield",
+        answer: "Tiptoe Through The Tulips By Tiny Tim"
+    },
+    {
+        question: "How many times has Beetlejuice seen The Exorcist?",
+        a: "167 times",
+        b: "286 times",
+        c: "900 times",
+        d: "1,677 times",
+        answer: "167 times"
+    },
+    {
+        question: "What movie is the famous line “If it bleeds, we can kill it” from?",
+        a: "Night of the Living Dead (1968)",
+        b: "Predator (1987)",
+        c: "Return of the Living Dead (1985)",
+        d: "Tremors (1990)",
+        answer: "Predator (1987)"
+    },
+    {
+        question: "What famous TV horror host appeared in Plan 9 From Outer Space?",
+        a: "Vampira",
+        b: "Elvira",
+        c: "Count Gore De Vol",
+        d: "Chilly Billy",
+        answer: "Vampira"
+    },
+    {
+        question: "In the film Dead Alive/Braindead, what did Lionel kill all the zombies in his house with? ",
+        a: "A Frying Pan",
+        b: "A Toilet Seat",
+        c: "A Hatchet",
+        d: "A lawnmower",
+        answer: "A lawnmower"
+    },
+    {
+        question: "What color jumpsuit did the doppelgangers wear in Jordan Peele’s Us?",
+        a: "Grey jumpsuits",
+        b: "Red jumpsuits",
+        c: "Green jumpsuits",
+        d: "Blue jumpsuits",
+        answer: "Red jumpsuits"
+    },
+    {
+        question: "How many Final Destination movies are there?",
+        a: "Three movies",
+        b: "Four movies",
+        c: "Five movies",
+        d: "Six movies",
+        answer: "Five movies"
+    },
+    {
+        question: "What horror movie was the debut of actor Johnny Depp?",
+        a: "A Nightmare on Elm Street",
+        b: "Friday the 13th",
+        c: "Maniac",
+        d: "The Fog",
+        answer: "A Nightmare on Elm Street"
+    },
+    {
+        question: "What is the name of the creatures from the Alien franchise?",
+        a: "Kongruids",
+        b: "Xenomorphs",
+        c: "Brex'eds",
+        d: "Agzuts",
+        answer: "Xenomorphs"
+    },
+    {
+        question: "In An American Werewolf in London, what song plays as David turns into a werewolf?",
+        a: "Bad Moon Rising by Creedence Clearwater Revival",
+        b: "Season of the Witch by Al Kooper",
+        c: "Changes (I'm Going Through Changes) by Voidoid",
+        d: "Moon Dance by Meco",
+        answer: "Bad Moon Rising by Creedence Clearwater Revival"
+    },
+    {
+        question: "Which classic monster movie is said to be the most successful horror franchise in history?",
+        a: "Dracula",
+        b: "Frankenstein",
+        c: "The Wolfman",
+        d: "Godzilla",
+        answer: "Godzilla"
+    },
+    {
+        question: "Which 90s film depicts creepy-crawlies taking over a small town in California?",
+        a: "Mimic (1997)",
+        b: "Infestation (2009)",
+        c: "Arachnophobia (1990)",
+        d: "The Nest (1988)",
+        answer: "Arachnophobia (1990)"
+    },
+    {
+        question: "Who was Danny's imaginary friend in the classic horror movie, The Shinning?",
+        a: "Tobi",
+        b: "Tony",
+        c: "Thomas",
+        d: "Mr. Jingles",
+        answer: "Tony"
+    },
+    {
+        question: "Which classic horror movie got 10 Academy Award ominations?",
+        a: "the silence of the lambs",
+        b: "The Shinning",
+        c: "The Exorcist",
+        d: "Halloween",
+        answer: "The Exorcist"
     }
 ];
 
@@ -225,7 +417,7 @@ function displayContent(){
     startButton.style.visibility = 'hidden';
     quizBoard.style.visibility = 'visible';
     playAgain.style.visibility = 'hidden';
-    results.style.visibility = 'hidden';
+    //results.style.visibility = 'hidden';
 };
 
 //call generateQuiz to get new 10 question quiz
@@ -264,48 +456,48 @@ function generateQuiz() {
     if(currentRound !== 9) {
         a_text.onclick = function() {
             if(currentQuizData.a === currentQuizData.answer) {
-                //results.innerText = 'Correct!'
+                results.innerText = `Correct, ${currentQuizData.answer}`;
                 score++
                 currentRound++
                 generateQuiz();
             }else {
-                //results.innerText = "Wrong!"
+                results.innerText = `Wrong, ${currentQuizData.answer}`;
                 currentRound++
                 generateQuiz();
             }
         };
         b_text.onclick = function() {
             if(currentQuizData.b === currentQuizData.answer) {
-                //results.innerText = "Correct!";
+                results.innerText = `Correct, ${currentQuizData.answer}`;
                 score++
                 currentRound++
                 generateQuiz();
             }else {
-                //results.innerText = "Wrong!";
+                results.innerText = `Wrong, ${currentQuizData.answer}`;
                 currentRound++
                 generateQuiz();
             }
         };
         c_text.onclick = function() {
             if(currentQuizData.c === currentQuizData.answer) {
-                //results.innerText = "Correct!";
+                results.innerText = `Correct, ${currentQuizData.answer}`;
                 score++
                 currentRound++
                 generateQuiz();
             }else {
-                //results.innerText = "Wrong!";
+                results.innerText = `Wrong, ${currentQuizData.answer}`;
                 currentRound++
                 generateQuiz();
             }
         };
         d_text.onclick = function() {
             if(currentQuizData.d === currentQuizData.answer) {
-                //results.innerText = "Correct!";
+                results.innerText = `Correct, ${currentQuizData.answer}`;
                 score++
                 currentRound++
                 generateQuiz();
             }else {
-                //results.innerText = "Wrong!";
+                results.innerText = `Wrong, ${currentQuizData.answer}`;
                 currentRound++
                 generateQuiz();
             }
@@ -313,41 +505,41 @@ function generateQuiz() {
     } else {
         a_text.onclick = function() {
             if(currentQuizData.a === currentQuizData.answer) {
-                //results.innerText = 'Correct!'
+                results.innerText = `Correct, ${currentQuizData.answer}`
                 score++
                 endRound();
             }else {
-                //results.innerText = "Wrong!"
+                results.innerText = `Wrong, ${currentQuizData.answer}`;
                 endRound();
             }
         };
         b_text.onclick = function() {
             if(currentQuizData.b === currentQuizData.answer) {
-                //results.innerText = 'Correct!'
+                results.innerText = `Correct, ${currentQuizData.answer}`;
                 score++
                 endRound();
             }else {
-                //results.innerText = "Wrong!"
+                results.innerText = `Wrong, ${currentQuizData.answer}`;
                 endRound();
             }
         };
         c_text.onclick = function() {
             if(currentQuizData.c === currentQuizData.answer) {
-                //results.innerText = 'Correct!'
+                results.innerText = `Correct, ${currentQuizData.answer}`;
                 score++
                 endRound();
             }else {
-                //results.innerText = "Wrong!"
+                quizBoard.innerText = `Wrong, ${currentQuizData.answer}`;
                 endRound();
             }
         };
         d_text.onclick = function() {
             if(currentQuizData.d === currentQuizData.answer) {
-                //results.innerText = 'Correct!'
+                results.innerText = `Correct, ${currentQuizData.answer}`;
                 score++
                 endRound();
             }else {
-                //results.innerText = "Wrong!"
+                results.innerText = `Wrong, ${currentQuizData.answer}`;
                 endRound();
             }
         };
